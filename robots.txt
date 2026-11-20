@@ -1,0 +1,12 @@
+# TSC Synchron Chemnitz – robots.txt
+#
+# ENTWURF: Die Seite ist noch nicht freigegeben. Suchmaschinen sollen sie nicht erfassen
+# (zusätzlich setzt jede Seite im Entwurf <meta name="robots" content="noindex, nofollow">).
+#
+# Zum Livegang diesen Block ersetzen durch:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://www.tsc-synchron.com/sitemap.xml
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TSC Synchron Chemnitz//Website-Termine//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TSC Synchron – Erstes Training 2027
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:2027-01-08-erstes-training@tsc-synchron.com
+DTSTAMP:20261120T174139Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+TRANSP:TRANSPARENT
+SUMMARY:Erstes Training 2027 · TSC Synchron
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße\, Chemnitz
+DESCRIPTION:Training – Tanzsportclub Synchron Chemnitz e.V.\nStart ins Ju
+ biläumsjahr.\nTrainingszeiten: https://www.tsc-synchron.com/training/\nFr
+ eitagstermin. Termine der Donnerstagsgruppen (Kindertanz\, Latein) bitte a
+ uf der Website prüfen.\nAktuelle Termine: https://www.tsc-synchron.com/te
+ rmine/
+STATUS:CONFIRMED
+URL:https://www.tsc-synchron.com/termine/
+END:VEVENT
+END:VCALENDAR
