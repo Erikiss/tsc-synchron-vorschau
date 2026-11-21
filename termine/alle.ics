@@ -24,12 +24,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-04-tanzparty@tsc-synchron.com
-DTSTAMP:20261121T205214Z
+DTSTAMP:20261121T234616Z
 DTSTART;TZID=Europe/Berlin:20261204T190000
 DTEND;TZID=Europe/Berlin:20261204T220000
 SUMMARY:Tanzparty im Festsaal · TSC Synchron
-LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
- nitz
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, 0913
+ 1 Chemnitz
 DESCRIPTION:Tanzparty – Tanzsportclub Synchron Chemnitz e.V.\nHobbytanzgr
  uppe zum Schnuppern: Standard und Latein in gemütlicher Runde.\nEintritt 
  frei – wir freuen uns über eine Spende.\nAktuelle Termine: https://erik
@@ -39,13 +39,13 @@ URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-letztes-training@tsc-synchron.com
-DTSTAMP:20261121T205214Z
+DTSTAMP:20261121T234616Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
 SUMMARY:Letztes Training 2026 · TSC Synchron
-LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
- nitz
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, 0913
+ 1 Chemnitz
 DESCRIPTION:Training – Tanzsportclub Synchron Chemnitz e.V.\nDanach Winte
  rpause – weiter geht es am Fr\, 08.01.2027.\nTrainingszeiten: https://er
  ikiss.github.io/tsc-synchron-vorschau/training/\nFreitagstermin. Termine d
@@ -57,13 +57,13 @@ URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-erstes-training@tsc-synchron.com
-DTSTAMP:20261121T205214Z
+DTSTAMP:20261121T234616Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 TRANSP:TRANSPARENT
 SUMMARY:Erstes Training 2027 · TSC Synchron
-LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
- nitz
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, 0913
+ 1 Chemnitz
 DESCRIPTION:Training – Tanzsportclub Synchron Chemnitz e.V.\nStart ins Ju
  biläumsjahr.\nTrainingszeiten: https://erikiss.github.io/tsc-synchron-vor
  schau/training/\nFreitagstermin. Termine der Donnerstagsgruppen (Kindertan
@@ -74,7 +74,7 @@ URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-tanzparty@tsc-synchron.com
-DTSTAMP:20261121T205214Z
+DTSTAMP:20261121T234616Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 TRANSP:TRANSPARENT

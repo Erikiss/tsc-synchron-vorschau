@@ -24,12 +24,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-04-tanzparty@tsc-synchron.com
-DTSTAMP:20261121T205214Z
+DTSTAMP:20261121T234616Z
 DTSTART;TZID=Europe/Berlin:20261204T190000
 DTEND;TZID=Europe/Berlin:20261204T220000
 SUMMARY:Tanzparty im Festsaal · TSC Synchron
-LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
- nitz
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, 0913
+ 1 Chemnitz
 DESCRIPTION:Tanzparty – Tanzsportclub Synchron Chemnitz e.V.\nHobbytanzgr
  uppe zum Schnuppern: Standard und Latein in gemütlicher Runde.\nEintritt 
  frei – wir freuen uns über eine Spende.\nAktuelle Termine: https://erik
