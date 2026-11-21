@@ -24,26 +24,28 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-04-tanzparty@tsc-synchron.com
-DTSTAMP:20261120T174139Z
+DTSTAMP:20261121T121823Z
 DTSTART;TZID=Europe/Berlin:20261204T190000
 DTEND;TZID=Europe/Berlin:20261204T220000
 SUMMARY:Tanzparty im Festsaal · TSC Synchron
-LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße\, Chemnitz
-DESCRIPTION:Tanzparty – Tanzsportclub Synchron Chemnitz e.V.\nStandard un
- d Latein in entspannter Runde.\nEintritt frei\, Spenden willkommen.\nAngab
- en noch in Klärung – bitte kurz vorher auf der Website prüfen.\nAktuel
- le Termine: https://www.tsc-synchron.com/termine/
-STATUS:TENTATIVE
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
+ nitz
+DESCRIPTION:Tanzparty – Tanzsportclub Synchron Chemnitz e.V.\nHobbytanzgr
+ uppe zum Schnuppern: Standard und Latein in gemütlicher Runde.\nEintritt 
+ frei – wir freuen uns über eine Spende.\nAktuelle Termine: https://www.
+ tsc-synchron.com/termine/
+STATUS:CONFIRMED
 URL:https://www.tsc-synchron.com/termine/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-letztes-training@tsc-synchron.com
-DTSTAMP:20261120T174139Z
+DTSTAMP:20261121T121823Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
 SUMMARY:Letztes Training 2026 · TSC Synchron
-LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße\, Chemnitz
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
+ nitz
 DESCRIPTION:Training – Tanzsportclub Synchron Chemnitz e.V.\nDanach Winte
  rpause – weiter geht es am Fr\, 08.01.2027.\nTrainingszeiten: https://ww
  w.tsc-synchron.com/training/\nFreitagstermin. Termine der Donnerstagsgrupp
@@ -54,12 +56,13 @@ URL:https://www.tsc-synchron.com/termine/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-erstes-training@tsc-synchron.com
-DTSTAMP:20261120T174139Z
+DTSTAMP:20261121T121823Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 TRANSP:TRANSPARENT
 SUMMARY:Erstes Training 2027 · TSC Synchron
-LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße\, Chemnitz
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
+ nitz
 DESCRIPTION:Training – Tanzsportclub Synchron Chemnitz e.V.\nStart ins Ju
  biläumsjahr.\nTrainingszeiten: https://www.tsc-synchron.com/training/\nFr
  eitagstermin. Termine der Donnerstagsgruppen (Kindertanz\, Latein) bitte a
@@ -70,7 +73,7 @@ URL:https://www.tsc-synchron.com/termine/
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-tanzparty@tsc-synchron.com
-DTSTAMP:20261120T174139Z
+DTSTAMP:20261121T121823Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 TRANSP:TRANSPARENT
