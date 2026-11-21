@@ -7,15 +7,16 @@ X-WR-CALNAME:TSC Synchron – Tanzparty
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:2027-01-22-tanzparty@tsc-synchron.com
-DTSTAMP:20261121T121823Z
+DTSTAMP:20261121T201840Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 TRANSP:TRANSPARENT
 SUMMARY:Tanzparty · TSC Synchron
 DESCRIPTION:Tanzparty – Tanzsportclub Synchron Chemnitz e.V.\nUhrzeit und
   Ort folgen.\nAngaben noch in Klärung – bitte kurz vorher auf der Websi
- te prüfen.\nAktuelle Termine: https://www.tsc-synchron.com/termine/
+ te prüfen.\nAktuelle Termine: https://erikiss.github.io/tsc-synchron-vors
+ chau/termine/
 STATUS:TENTATIVE
-URL:https://www.tsc-synchron.com/termine/
+URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TSC Synchron Chemnitz//Website-Termine//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TSC Synchron Chemnitz – Termine
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Tanzpartys und besondere Trainingstermine des Tanzsportclub Sy
+ nchron Chemnitz e.V. Aktuell auf https://erikiss.github.io/tsc-synchron-vo
+ rschau/termine/
+NAME:TSC Synchron Chemnitz – Termine
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-tanzparty@tsc-synchron.com
+DTSTAMP:20261121T201840Z
+DTSTART;TZID=Europe/Berlin:20261204T190000
+DTEND;TZID=Europe/Berlin:20261204T220000
+SUMMARY:Tanzparty im Festsaal · TSC Synchron
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
+ nitz
+DESCRIPTION:Tanzparty – Tanzsportclub Synchron Chemnitz e.V.\nHobbytanzgr
+ uppe zum Schnuppern: Standard und Latein in gemütlicher Runde.\nEintritt 
+ frei – wir freuen uns über eine Spende.\nAktuelle Termine: https://erik
+ iss.github.io/tsc-synchron-vorschau/termine/
+STATUS:CONFIRMED
+URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-letztes-training@tsc-synchron.com
+DTSTAMP:20261121T201840Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+TRANSP:TRANSPARENT
+SUMMARY:Letztes Training 2026 · TSC Synchron
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
+ nitz
+DESCRIPTION:Training – Tanzsportclub Synchron Chemnitz e.V.\nDanach Winte
+ rpause – weiter geht es am Fr\, 08.01.2027.\nTrainingszeiten: https://er
+ ikiss.github.io/tsc-synchron-vorschau/training/\nFreitagstermin. Termine d
+ er Donnerstagsgruppen (Kindertanz\, Latein) bitte auf der Website prüfen.
+ \nAktuelle Termine: https://erikiss.github.io/tsc-synchron-vorschau/termin
+ e/
+STATUS:CONFIRMED
+URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-erstes-training@tsc-synchron.com
+DTSTAMP:20261121T201840Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+TRANSP:TRANSPARENT
+SUMMARY:Erstes Training 2027 · TSC Synchron
+LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
+ nitz
+DESCRIPTION:Training – Tanzsportclub Synchron Chemnitz e.V.\nStart ins Ju
+ biläumsjahr.\nTrainingszeiten: https://erikiss.github.io/tsc-synchron-vor
+ schau/training/\nFreitagstermin. Termine der Donnerstagsgruppen (Kindertan
+ z\, Latein) bitte auf der Website prüfen.\nAktuelle Termine: https://erik
+ iss.github.io/tsc-synchron-vorschau/termine/
+STATUS:CONFIRMED
+URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-tanzparty@tsc-synchron.com
+DTSTAMP:20261121T201840Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+TRANSP:TRANSPARENT
+SUMMARY:Tanzparty · TSC Synchron
+DESCRIPTION:Tanzparty – Tanzsportclub Synchron Chemnitz e.V.\nUhrzeit und
+  Ort folgen.\nAngaben noch in Klärung – bitte kurz vorher auf der Websi
+ te prüfen.\nAktuelle Termine: https://erikiss.github.io/tsc-synchron-vors
+ chau/termine/
+STATUS:TENTATIVE
+URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
+END:VEVENT
+END:VCALENDAR

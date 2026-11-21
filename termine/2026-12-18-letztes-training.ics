@@ -7,7 +7,7 @@ X-WR-CALNAME:TSC Synchron – Letztes Training 2026
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:2026-12-18-letztes-training@tsc-synchron.com
-DTSTAMP:20261121T121823Z
+DTSTAMP:20261121T201840Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
@@ -15,11 +15,12 @@ SUMMARY:Letztes Training 2026 · TSC Synchron
 LOCATION:Festsaal Klinikum Chemnitz\, Haus 12\, Dresdner Straße 178\, Chem
  nitz
 DESCRIPTION:Training – Tanzsportclub Synchron Chemnitz e.V.\nDanach Winte
- rpause – weiter geht es am Fr\, 08.01.2027.\nTrainingszeiten: https://ww
- w.tsc-synchron.com/training/\nFreitagstermin. Termine der Donnerstagsgrupp
- en (Kindertanz\, Latein) bitte auf der Website prüfen.\nAktuelle Termine:
-  https://www.tsc-synchron.com/termine/
+ rpause – weiter geht es am Fr\, 08.01.2027.\nTrainingszeiten: https://er
+ ikiss.github.io/tsc-synchron-vorschau/training/\nFreitagstermin. Termine d
+ er Donnerstagsgruppen (Kindertanz\, Latein) bitte auf der Website prüfen.
+ \nAktuelle Termine: https://erikiss.github.io/tsc-synchron-vorschau/termin
+ e/
 STATUS:CONFIRMED
-URL:https://www.tsc-synchron.com/termine/
+URL:https://erikiss.github.io/tsc-synchron-vorschau/termine/
 END:VEVENT
 END:VCALENDAR
